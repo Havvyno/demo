@@ -6,7 +6,7 @@
       "description": "Приключения",
       "price": "168",
       "img": "/images/vern.png",
-      "quantity": "0"
+      "quantity": "1"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "description": "Эпос и фольклор",
       "price": "174",
       "img": "/images/kun.png",
-      "quantity": "0"
+      "quantity": "1"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "description": "Эпос и фольклор",
       "price": "155",
       "img": "/images/homer.png",
-      "quantity": "0"
+      "quantity": "1"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "description": "Классика",
       "price": "153",
       "img": "/images/alighieri.png",
-      "quantity": "0"
+      "quantity": "1"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "description": "Классика",
       "price": "172",
       "img": "/images/hugo.png",
-      "quantity": "0"
+      "quantity": "1"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "description": "Классика",
       "price": "174",
       "img": "/images/bulgakov.png",
-      "quantity": "0"
+      "quantity": "1"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "description": "Современная проза",
       "price": "249",
       "img": "/images/bradbury.png",
-      "quantity": "0"
+      "quantity": "1"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "description": "Сказки",
       "price": "157",
       "img": "/images/carroll.png",
-      "quantity": "0"
+      "quantity": "1"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "description": "Приключения",
       "price": "146",
       "img": "/images/defoe.png",
-      "quantity": "0"
+      "quantity": "1"
     }
   ]
 }
