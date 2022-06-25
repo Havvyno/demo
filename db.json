@@ -5,72 +5,63 @@
       "title": "Ж. Верн, “Двадцать тысяч лье под водой”",
       "description": "Приключения",
       "price": "168",
-      "img": "/images/vern.png",
-      "quantity": "1"
+      "img": "/images/vern.png"
     },
     {
       "id": 2,
       "title": "Н. Кун, “Легенды и мифы Древней Греции”",
       "description": "Эпос и фольклор",
       "price": "174",
-      "img": "/images/kun.png",
-      "quantity": "1"
+      "img": "/images/kun.png"
     },
     {
       "id": 3,
       "title": "Гомер, “Илиада”",
       "description": "Эпос и фольклор",
       "price": "155",
-      "img": "/images/homer.png",
-      "quantity": "1"
+      "img": "/images/homer.png"
     },
     {
       "id": 4,
       "title": "Д. Алигьери, “Божественная комедия”",
       "description": "Классика",
       "price": "153",
-      "img": "/images/alighieri.png",
-      "quantity": "1"
+      "img": "/images/alighieri.png"
     },
     {
       "id": 5,
       "title": "В. Гюго, “Собор Парижской Богоматери”",
       "description": "Классика",
       "price": "172",
-      "img": "/images/hugo.png",
-      "quantity": "1"
+      "img": "/images/hugo.png"
     },
     {
       "id": 6,
       "title": "М. Булгаков, “Мастер и Маргарита”",
       "description": "Классика",
       "price": "174",
-      "img": "/images/bulgakov.png",
-      "quantity": "1"
+      "img": "/images/bulgakov.png"
     },
     {
       "id": 7,
       "title": "Р. Брэдбери, “Вино из одуванчиков”",
       "description": "Современная проза",
       "price": "249",
-      "img": "/images/bradbury.png",
-      "quantity": "1"
+      "img": "/images/bradbury.png"
     },
     {
       "id": 8,
       "title": "Л. Кэрролл, “Алиса в Стране чудес и в Зазеркалье”",
       "description": "Сказки",
       "price": "157",
-      "img": "/images/carroll.png",
-      "quantity": "1"
+      "img": "/images/carroll.png"
     },
     {
       "id": 9,
       "title": "Д. Дефо, “Робинзон Крузо”",
       "description": "Приключения",
       "price": "146",
-      "img": "/images/defoe.png",
-      "quantity": "1"
+      "img": "/images/defoe.png"
     }
   ]
 }
